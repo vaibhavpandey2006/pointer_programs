@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1726107727 source:c:\users\18pan\onedrive\desktop\cpp geeks\pointer_programs\main.cpp
+	<iostream>
+	"join_p.h"
+
+1726107727 c:\users\18pan\onedrive\desktop\cpp geeks\pointer_programs\join_p.h
+
+1725779660 source:c:\users\18pan\onedrive\desktop\cpp geeks\pointer_programs\pointer_one.cpp
+	<iostream>
+	"join_p.h"
+
+1726066401 source:c:\users\18pan\onedrive\desktop\cpp geeks\pointer_programs\array_pointer.cpp
+	<iostream>
+	"join_p.h"
+
+1726067045 source:c:\users\18pan\onedrive\desktop\cpp geeks\pointer_programs\example_of_voidpointer.cpp
+	<iostream>
+	"join_p.h"
+
+1726076893 source:c:\users\18pan\onedrive\desktop\cpp geeks\pointer_programs\reference_pointer.cpp
+	<iostream>
+	"join_p.h"
+
+1726107950 source:c:\users\18pan\onedrive\desktop\cpp geeks\pointer_programs\function_pointer.cpp
+	<iostream>
+	"join_p.h"
+
